@@ -1,0 +1,2 @@
+my_str="I am studying Python."
+print(my_str.endswith("Python."))
